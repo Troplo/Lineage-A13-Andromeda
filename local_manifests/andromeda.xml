@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project name="Inkypen79/device_xiaomi_andromeda-sepolicy" path="device/xiaomi/andromeda-sepolicy" remote="github" revision="lineage-20.0" />
+  <project name="Inkypen79/device_xiaomi_andromeda" path="device/xiaomi/andromeda" remote="github" revision="lineage-20.0" />
+  <project name="Inkypen79/vendor_xiaomi_andromeda" path="vendor/xiaomi/andromeda" remote="github" revision="lineage-20.0" />
+  <project name="Troplo/kernel_xiaomi_andromeda" path="kernel/xiaomi/andromeda" remote="github" revision="lineage-17.1"/>
+</manifest>
