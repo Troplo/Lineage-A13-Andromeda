@@ -1,6 +1,6 @@
 # Unofficial Lineage 20.0 builds for Xiaomi Mi MIX 3 5G
-This repository contains monthly builds of Lineage 20.0 for andromeda containing the latest security patches of LineageOS and Android 13.
-
+This repository contains monthly builds of Lineage 20.0 for andromeda containing the latest security patches of LineageOS and Android 13.<br>
+<img src="https://i.troplo.com/i/e592f6c217a1.png" width="250"><img src="https://i.troplo.com/i/34fba69624eb.png" width="250"><br>
 ## Standard Disclaimer
 ```
 #include <std_disclaimer.h>
