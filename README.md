@@ -20,8 +20,8 @@ This repository contains monthly builds of Lineage 20.0 for andromeda containing
 
 ## Features/Notes
 - LineageOS 20.0 (Android 13), source code accessible <a href="https://github.com/LineageOS">here</a>.
-- Google Apps not included. MindTheGapps is recommended.
-- <a href="https://github.com/Inkypen79">Inkypen79</a>'s <a href="https://github.com/Inkypen79/kernel_xiaomi_andromeda">kernel</a>, <a href="https://github.com/Inkypen79/device_xiaomi_andromeda/tree/lineage-18.1">device tree</a> and <a href="https://github.com/Inkypen79/vendor_xiaomi_andromeda/tree/lineage-18.1">vendor</a>.
+- Google Apps not included. MindTheGapps (minimal Gapps) or NikGapps (multiple variants) are recommended.
+- <a href="https://github.com/Inkypen79">Inkypen79</a>'s <a href="https://github.com/Inkypen79/kernel_xiaomi_andromeda">kernel</a>, <a href="https://github.com/Inkypen79/device_xiaomi_andromeda/tree/lineage-20.0">device tree</a> and <a href="https://github.com/Inkypen79/vendor_xiaomi_andromeda/tree/lineage-20.0">vendor</a>.
 - Kernel has been <a href="https://github.com/Troplo/kernel_xiaomi_andromeda">modified</a> for 75hz display overclock by default.
 - Check individual release notes for more details.
 - OTA updater has been set to https://ota.troplo.com for OTA updates.
